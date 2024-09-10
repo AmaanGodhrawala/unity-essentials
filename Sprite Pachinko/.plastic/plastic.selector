@@ -1,0 +1,4 @@
+repository "Sprite Pachinko@phoenix299IV@cloud"
+  path "/"
+    br "/main"
+    co "/main"
